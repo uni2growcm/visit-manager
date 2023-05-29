@@ -27,6 +27,8 @@ The frontend app should implememt the following features:
 -  purpose : a string representing the visit purpose
 -  date : a date time representing the visit record date
 -  departureDate : a date time representing  the visit departure date
+-  visitor : a Visitor object representing the visitor
+-  user : a User object representing the user.
 ### Visitor
 -  firstName : a string representing the first name of the visitor 
 -  last Name : a string representing the first name of the visitor 
@@ -35,7 +37,7 @@ The frontend app should implememt the following features:
 -  address : an nullable Address  object representing the address of the visitor
 
 ## Notes
-- The previous schema ist just an minimal schema, then you'll need to complete it.
+- The previous schema ist just an minimal schema, then you could complete it if necessary.
 - Our tech stack is mostly Java with Spring framework and React for front-end.
 - Please create a 'production-ready' service as you see it (documentation / tests / logs / exception handling).
 - Please provide an instruction on how to run the app.
