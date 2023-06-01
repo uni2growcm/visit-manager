@@ -32,6 +32,6 @@ The frontend app should implememt the following features:
 ## Notes
 - The previous schema ist just an minimal schema, then you could complete it if necessary.
 - Our tech stack is mostly React.
-- You could use a local datasource(for e
-- Please provide an instruction on how to run the app.
+- You could use a local datasource(for example, by storing data in json files)
+- Please provide an instruction on how to deploy the app.
 - Submit your solution either as a public repository (github, bitbucket, etc.) or as a zip archive.
