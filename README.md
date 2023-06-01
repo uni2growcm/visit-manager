@@ -1,18 +1,17 @@
-# Visit Manager - Internship Assignment
+# Visit Manager - Assignment
 ---
-Implement a web application to visitors and their visits
+Implement a web application to manage visitors' visits in a company
 
 ## Terminology
 ---
-- **Visitor** - A visit belongs to one and only one visitor
-- **Visit** - A visitor can have many visits
+- **Visitor** - A visitor can have many visits
+- **Visit** - A visit belongs to one and only one visitor
 ## Requirements
 ---
-### Frontend
-The frontend app should implememt the following features:
+The web app should implememt the following features:
 - Manage **[visits, visitors]**
 - Display a paginated data(particularly visits) with filter support
-- Add the possbility to print visits.
+- Add a dashboard to show some statistic about the visits (visits per day, per week, per month, per day period (moring/afternoon), etc)
 
 ## Minimum entities Schema
 ---
@@ -31,7 +30,7 @@ The frontend app should implememt the following features:
 
 ## Notes
 - The previous schema ist just an minimal schema, then you could complete it if necessary.
-- Our tech stack is mostly React.
+- Our tech stack is mostly React for front-end.
 - You could use a local datasource(for example, by storing data in json files)
 - Please provide an instruction on how to deploy the app.
 - Submit your solution either as a public repository (github, bitbucket, etc.) or as a zip archive.
