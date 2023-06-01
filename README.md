@@ -1,6 +1,6 @@
 # Visit Manager - Internship Assignment
 ---
-Implement a REST service and a web application to visitors and their visits
+Implement a web application to visitors and their visits
 
 ## Terminology
 ---
@@ -8,16 +8,9 @@ Implement a REST service and a web application to visitors and their visits
 - **Visit** - A visitor can have many visits
 ## Requirements
 ---
-### Backend
-The service should implement the following fonctionalities:
-- Create **[Visit, Visitor]**
-- Update **[Visit, Visitor]**
-- Delete **[Visit, Visitor]**
-- Get all/paginated/partially(search, filter) **[visits, visitors]**
-
 ### Frontend
 The frontend app should implememt the following features:
-- Manage **[visits, visitors]** according to provided service(backend)
+- Manage **[visits, visitors]**
 - Display a paginated data(particularly visits) with filter support
 - Add the possbility to print visits.
 
@@ -38,7 +31,7 @@ The frontend app should implememt the following features:
 
 ## Notes
 - The previous schema ist just an minimal schema, then you could complete it if necessary.
-- Our tech stack is mostly Java with Spring framework and React for front-end.
-- Please create a 'production-ready' service as you see it (documentation / tests / logs / exception handling).
+- Our tech stack is mostly React.
+- You could use a local datasource(for e
 - Please provide an instruction on how to run the app.
 - Submit your solution either as a public repository (github, bitbucket, etc.) or as a zip archive.
