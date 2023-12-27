@@ -29,8 +29,7 @@ The web app should implememt the following features:
 -  address : an nullable Address  object representing the address of the visitor
 
 ## Notes
-- The previous schema ist just an minimal schema, then you could complete it if necessary.
-- Our tech stack is mostly React for front-end.
-- You could use a local datasource(for example, by storing data in json files)
+- The previous schema ist just a minimal schema, then you could complete it if necessary.
+- Our tech stack is mostly React/Angular for front-end, Spring Boot for the backend.
 - Please provide an instruction on how to deploy the app.
-- Submit your solution either as a public repository (github, bitbucket, etc.) or as a zip archive.
+- Submit your solution either as a public repository (recommended) or as a zip archive.
